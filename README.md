@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 A project with all the reusbale feature which all the react project must needed to complete it's life.
 
+### Login and signup page with validation.
+### Routing Authetication with public and protected route.
+### Jwt token authetication.
+### Persist token when user refresh the page.
+### axios interceptor with private call and refresh token mechanism.
+
 ## Available Scripts
 
 In the project directory, you can run:
